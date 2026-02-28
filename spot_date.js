@@ -4,7 +4,7 @@ import simpleGit from "simple-git";
 import random from "random";
 
 const path = "./data.json";
-const years_substract = 6;
+const years_substract = 3;
 const days_add = 1;
 
 const markCommit = (x, y) => {
